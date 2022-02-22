@@ -1,6 +1,6 @@
 /******************************************************************************
 MQTT_ESP32_Code.ino v.1.2.
-Arduino code for subscribing to MQTT topic for recieving messages
+Arduino code for subscribing to MQTT topic for recieving (or publish) messages
 Date: 2/17/2021
 Authors: 
 
