@@ -12,4 +12,4 @@ https://eecs.oregonstate.edu/project-showcase/projects/?id=zqtk3ChJ4vq6mC70
 
 Public Server Used:
 
-broker.hivemq.com
+http://www.mqtt-dashboard.com/
